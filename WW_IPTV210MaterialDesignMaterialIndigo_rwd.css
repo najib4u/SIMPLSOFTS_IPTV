@@ -1,3 +1,9 @@
+@import "res/Ionicons/style.css";
+@import "res/fontawesome-webfont/style.css";
+@import "res/Material Design Icons/style.css";
+@import "res/OpenWeb Icons/style.css";
+@import "res/Elusive-Icons/style.css";
+@import "res/foundation-icons/style.css";
 .h-0{height:0px;}
 .d-0{display:none !important;visibility:hidden !important;}
 .bbox{-webkit-box-sizing:border-box !important;-moz-box-sizing:border-box !important;-ms-box-sizing:border-box !important;box-sizing:border-box !important;}
